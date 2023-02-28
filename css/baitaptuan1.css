@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+td,
+table {
+    border: 3px solid rgb(247, 209, 194);
+    border-collapse: collapse;
+}
+
+.right {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+.bang9 {
+    border: 3px solid rgb(43, 18, 10);
+}
